@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "leaflet": "^1.9.4",
+    "papaparse": "^5.7.0",
+    "plotly.js": "^2.35.3",
+    "react-leaflet": "^5.0.0",
+    "react-plotly.js": "^2.6.0",
+    "tailwindcss": "^4.3.3"
+  }
+}
