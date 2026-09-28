@@ -13,16 +13,16 @@ The dashboard allows users to explore the data using interactive charts, locatio
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard – Overview
-![Main Dashboard](screenshots/Main%20Dashboard%20%E2%80%93%20Overview%20of%20Rainfall%20and%20Flood%20Risk%20Analysis.jpeg)
+![Main Dashboard](screenshots/overview.jpeg)
 
 ### Rainfall Pattern Analysis
-![Rainfall Pattern Analysis](screenshots/Rainfall%20Pattern%20Analysis%20Dashboard.jpeg)
+![Rainfall Pattern Analysis](screenshots/rainfall.jpeg)
 
 ### Flood Event Analysis
-![Flood Event Analysis](screenshots/Flood%20Event%20Analysis%20by%20Year%2C%20Month%20and%20Location.jpeg)
+![Flood Event Analysis](screenshots/flood-events.jpeg)
 
 ### Key Insights
-![Key Insights](screenshots/Key%20Insights%20Generated%20from%20the%20Dataset.jpeg)
+![Key Insights](screenshots/insights.jpeg)
 
 ## 🎯 Objectives
 
