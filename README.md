@@ -10,6 +10,20 @@ The dashboard allows users to explore the data using interactive charts, locatio
 
 > **Note:** The dataset used in this project is a **synthetic dataset created for educational and visualization purposes**. It is not intended for official flood prediction, warning, or decision-making.
 
+## 📸 Dashboard Screenshots
+
+### Main Dashboard – Overview
+![Main Dashboard](screenshots/overview.jpeg)
+
+### Rainfall Pattern Analysis
+![Rainfall Pattern Analysis](screenshots/rainfall.jpeg)
+
+### Flood Event Analysis
+![Flood Event Analysis](screenshots/flood-events.jpeg)
+
+### Key Insights
+![Key Insights](screenshots/insights.jpeg)
+
 ## 🎯 Objectives
 
 * Analyze rainfall patterns across different years and months.
